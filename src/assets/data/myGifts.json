@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Delicious Cake",
+        "anim": "giftDeliciousCake"
+    },
+    {
+        "id": 2,
+        "name": "Green Star", 
+        "anim": "giftGreenStar" 
+    },
+    {
+        "id": 3,
+        "name": "Blue Star", 
+        "anim": "giftBlueStar"
+    },
+    {
+        "id": 4,
+        "name": "Red Star", 
+        "anim": "giftRedStar"
+    }
+]
